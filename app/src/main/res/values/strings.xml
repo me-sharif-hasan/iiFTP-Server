@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">iiFTP Server</string>
+    <string name="info1">Start the server to view info.</string>
+    <string name="welcome">Welcome to iiFTP server. Please start the server to view more info.</string>
+</resources>
